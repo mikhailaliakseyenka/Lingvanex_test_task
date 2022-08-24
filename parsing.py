@@ -4,18 +4,24 @@ file = open('file_for_parsing.txt', 'r')
 def read_and_sorted_one_line(file):
     english_words = []
     russian_words = []
+
     while True:
         line = file.readline()  # считываем строку
         one_str = line.split('\t', 1)  # разбиваем строку по символу табуляции
         if len(one_str) == 2:
-            english_words.append(one_str[0] + '\n')
-            russian_words.append(one_str[1])
+            english_line = one_str[0].split(';')
+            for i in range(len(english_line)):
+                english_words.append(english_line[i].strip() + '\n')
+                russian_words.append(one_str[1])
 
         if not line:  # в случае окончания файла завершаем цикл
             break
 
     return russian_words, english_words
 
+def removing_duplicate_words(russian_words, english_words):
+    english_words_individual = []
+    russian_words_in = []
 
 def create_file_txt(name, words):
     file_txt = open(f"{name}.txt", "w+")
