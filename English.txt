@@ -1,6 +1,6 @@
 9
-nine
 9
+nine
 nine
 AOX value
 ASEAN
@@ -31,10 +31,10 @@ Afrikaans
 Albania
 Republic of Albania
 Algeria
-People's Democratic Republic of Algeria
+Algeria
 Algeria
 People's Democratic Republic of Algeria
-Algeria
+People's Democratic Republic of Algeria
 People's Democratic Republic of Algeria
 American Samoa
 American football
@@ -48,10 +48,10 @@ Angola
 Republic of Angola
 Anguilla
 Antarctic Ocean
-Southern Ocean
+Antarctic Ocean
 Antarctic Ocean
 Southern Ocean
-Antarctic Ocean
+Southern Ocean
 Southern Ocean
 Antarctic ecosystem
 Antarctica
@@ -78,12 +78,12 @@ Asia
 Assamese
 Assamese
 Astur-Leonese
-Asturian
-Asturian-Leonese
-Astur
 Astur-Leonese
 Asturian
+Asturian
 Asturian-Leonese
+Asturian-Leonese
+Astur
 Astur
 Athens
 Atlantic Ocean
@@ -114,8 +114,8 @@ Basque
 Bavaria
 Beijing
 Belarus
-Republic of Belarus
 Belarus
+Republic of Belarus
 Republic of Belarus
 Belarusan
 Belarusan
@@ -146,8 +146,8 @@ Bolivia
 Republic of Bolivia
 Bonn
 Borneo
-Kalimantan
 Borneo
+Kalimantan
 Kalimantan
 Bosnia and Herzegovina
 Republic of Bosnia and Herzegovina
@@ -199,9 +199,9 @@ Caribbean Sea
 Caspian Sea
 Cassiopeia
 Castilian
-Spanish
-Spanish
 Castilian
+Spanish
+Spanish
 Spanish
 Spanish
 Catalan
@@ -226,15 +226,15 @@ Christmas Island
 Christmas tree
 Chuvash
 Chuvash
+Chuvash
+Chuvash
+Chuwash
 Chuwash
 Chovash
+Chovash
+Chavash
 Chavash
 Chttash
-Chuvash
-Chuvash
-Chuwash
-Chovash
-Chavash
 Chttash
 Cologne
 Colombia
@@ -271,8 +271,8 @@ Czechia
 DDT
 dichloro-diphenyl-trichloroethane
 DNA
-deoxyribonucleic acid
 DNA
+deoxyribonucleic acid
 deoxyribonucleic acid
 Dagestan
 Dakar
@@ -335,8 +335,8 @@ Epiphany
 Equatorial Guinea
 Republic of Equatorial Guinea
 Erevan
-Yerevan
 Erevan
+Yerevan
 Yerevan
 Eritrea
 Esperanto
@@ -380,25 +380,25 @@ French
 French Guiana
 French Polynesia
 French Southern Territories
-French Southern and Antarctic LandsA
-French Southern and Antarctic Lands
-Territory of the French Southern and Antarctic Lands
 French Southern Territories
 French Southern and Antarctic LandsA
+French Southern and Antarctic LandsA
 French Southern and Antarctic Lands
+French Southern and Antarctic Lands
+Territory of the French Southern and Antarctic Lands
 Territory of the French Southern and Antarctic Lands
 French formal garden
 Frenchman
 Friday
 Frisian
-Western Frisian
 Frisian
+Western Frisian
 Western Frisian
 GDP
 gross domestic product
 GDR
-German Democratic Republic
 GDR
+German Democratic Republic
 German Democratic Republic
 GIS digital format
 GIS digital system
@@ -432,10 +432,10 @@ Ghana
 Republic of Ghana
 Gibraltar
 Global Environment Facility
-GEF
+Global Environment Facility
 Global Environment Facility
 GEF
-Global Environment Facility
+GEF
 GEF
 Great Britain
 Britain
@@ -464,13 +464,13 @@ Gujarati
 Guyana
 Republic of Guyana
 H5N1
-Influenza A virus subtype H5N1
-A(H5N1)
+H5N1
 H5N1
 Influenza A virus subtype H5N1
-A(H5N1)
-H5N1
 Influenza A virus subtype H5N1
+Influenza A virus subtype H5N1
+A(H5N1)
+A(H5N1)
 A(H5N1)
 Haiti
 Republic of Haiti
@@ -592,16 +592,16 @@ Lausanne
 Lebanon
 Lebanese Republic
 Leningrad
-Petrograd
-Saint Petersburg
-St. Petersburg
+Leningrad
 Leningrad
 Petrograd
-Saint Petersburg
-St. Petersburg
-Leningrad
+Petrograd
 Petrograd
 Saint Petersburg
+Saint Petersburg
+Saint Petersburg
+St. Petersburg
+St. Petersburg
 St. Petersburg
 Leo
 Lesotho
@@ -611,8 +611,8 @@ Republic of Liberia
 Libya
 Great Socialist People's Libyan Arab Jamahiriya
 Liechtenstein
-Principality of Liechtenstein
 Liechtenstein
+Principality of Liechtenstein
 Principality of Liechtenstein
 Limburgish
 Limburgian
@@ -693,8 +693,8 @@ Moscow
 Mount Fuji
 Mozambique
 Mumbai
-Bombay
 Mumbai
+Bombay
 Bombay
 Munich
 Myanmar
@@ -753,10 +753,10 @@ Parliament
 People's Republic of China
 China
 Persian
-Western Farsi
-Farsi
 Persian
 Western Farsi
+Western Farsi
+Farsi
 Farsi
 Peru
 Republic of Peru
@@ -775,8 +775,8 @@ Portuguese
 Portuguese
 Puerto Rico
 Punjabi
-Panjabi
 Punjabi
+Panjabi
 Panjabi
 Pyrrhic victory
 Qatar
@@ -789,10 +789,10 @@ Romanian
 Romanaian
 Rome
 Russia
-Russian Federation
+Russia
 Russia
 Russian Federation
-Russia
+Russian Federation
 Russian Federation
 Russian
 Russian
@@ -900,26 +900,26 @@ Ukrainian
 Ukrainian
 United Arab Emirates
 United Kingdom
-United Kingdom of Great Britain and Northern Ireland
-UK
 United Kingdom
 United Kingdom of Great Britain and Northern Ireland
+United Kingdom of Great Britain and Northern Ireland
+UK
 UK
 United States
-United States of America
-America
-US
-U.S.
-U.S.A.
-U.S. of A.
-States
 United States
 United States of America
+United States of America
+America
 America
 US
+US
+U.S.
 U.S.
 U.S.A.
+U.S.A.
 U.S. of A.
+U.S. of A.
+States
 States
 Uranus
 Urdu
@@ -996,10 +996,10 @@ accident source
 cause of the accident
 accidental release of organisms
 accordion
-squeeze box
-piano accordion
 accordion
 squeeze box
+squeeze box
+piano accordion
 piano accordion
 accounting
 accounting system
@@ -1050,10 +1050,10 @@ adjective
 describing word
 adjust
 administration
-direction
-management
 administration
 direction
+direction
+management
 management
 administrative body
 administrative organ
@@ -1088,10 +1088,10 @@ aerobic treatment
 aerobiology
 aerodynamic noise
 aeroplane
-bird
-plane
 aeroplane
 bird
+bird
+plane
 plane
 aerosol
 aesthetics
@@ -1127,10 +1127,10 @@ agricultural effluent
 agricultural engineering
 agricultural equipment
 agricultural equipment
-agricultural machinery
-farm machinery
 agricultural equipment
 agricultural machinery
+agricultural machinery
+farm machinery
 farm machinery
 agricultural exploitation
 agricultural hydraulics
@@ -1284,8 +1284,8 @@ anatomy
 anchor
 angel
 angiosperm
-flowering plant
 angiosperm
+flowering plant
 flowering plant
 angling
 fishing
@@ -1327,8 +1327,8 @@ anime
 anion
 anise
 ankle
-talocrural joint
 ankle
+talocrural joint
 talocrural joint
 annelid
 anniversary
@@ -1966,14 +1966,14 @@ cell
 cell
 cell
 cell
-electrochemical cell
-energy cell
-Galvanic cell
-στοιχείο
 cell
 electrochemical cell
+electrochemical cell
+energy cell
 energy cell
 Galvanic cell
+Galvanic cell
+στοιχείο
 στοιχείο
 cellulose
 cellulose industry
@@ -2021,8 +2021,8 @@ chemical contamination
 chemical corrosivity
 chemical decontamination
 chemical element
-element
 chemical element
+element
 element
 chemical fallout
 chemical fertiliser
@@ -2190,12 +2190,12 @@ colonisation
 colony
 colour
 colour
-colo(u)r
+colour
+colour
 colour
 colour
 colo(u)r
-colour
-colour
+colo(u)r
 colo(u)r
 colour composition
 colourimetry
@@ -2221,8 +2221,8 @@ commercial vehicle
 commercialisation
 common agreement
 common agricultural policy
-common agricultural policy of the EU
 common agricultural policy
+common agricultural policy of the EU
 common agricultural policy of the EU
 common commercial policy
 common tariff policy
@@ -2258,8 +2258,8 @@ compostable waste
 composting
 composting by producer
 compound
-chemical compound
 compound
+chemical compound
 chemical compound
 compression
 compressor
@@ -2270,8 +2270,8 @@ concession
 concrete
 concrete products industry
 condensation (process)
-condensation
 condensation (process)
+condensation
 condensation
 conductivity
 electrical conductivity
@@ -2310,8 +2310,8 @@ consumption
 consumption pattern
 container
 containment (nuclear industry)
-containment
 containment (nuclear industry)
+containment
 containment
 contaminated soil
 contamination
